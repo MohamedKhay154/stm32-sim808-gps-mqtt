@@ -4,6 +4,8 @@ Embedded IoT tracker based on STM32 and SIM808, providing
 GPS positioning, SMS control, and MQTT communication with
 a Node-RED backend.
 
+![image](3D.png)
+
 
 ## Features
 - GPS position acquisition (SIM808)

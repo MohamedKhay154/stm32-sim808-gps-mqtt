@@ -17,9 +17,13 @@ a Node-RED backend.
 ## Repository Structure
 stm32-sim808-gps-mqtt/
 ├── firmware/     STM32CubeIDE project
+
 ├── PCB Design/   PCB schematics and layout
+
 ├── Node-Red/     Node-RED flows and dashboard
+
 ├── Docs/         Documentation
+
 ├── Images/       Pictures
 
 ## System Overview
